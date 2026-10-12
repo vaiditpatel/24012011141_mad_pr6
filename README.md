@@ -9,6 +9,19 @@ Create an Android application to demonstrate:
 3. **Splash Screen**
 4. **Immersive Mode**
 5. **Edge-to-Edge Content Display**
+### Project Assets
+
+#### Images
+Here are the project screenshots:
+
+![First Screenshot](1.png)
+
+![Second Screenshot](2.png)
+
+#### Video Demo
+Here is the recorded output video:
+
+[Watch the Output Video](Output_video.webm)
 
 The application demonstrates `AnimationDrawable` for frame-by-frame animation and Android animation resources for twin animation effects.
 
